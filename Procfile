@@ -1,1 +1,1 @@
-worker: python dcfbot.py
+worker: python3 dcfbot.py
