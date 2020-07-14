@@ -7,7 +7,6 @@ import io
 import config
 import os
 #from PIL import Image, ImageFont,ImageDraw
-TOKEN = 'NzMxNzU0MzA3NTEwMDc1NDU0.Xwqqjg.1T5PvtJNS3k5LJY44Jc3VIRrwQY'
 PREFIX='.'
 client = commands.Bot(command_prefix=PREFIX) 
 client.remove_command('help')
